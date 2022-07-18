@@ -1,0 +1,24 @@
+### Docker Compose ###
+.env
+
+### Cache Object ###
+__pycache__
+
+
+### IDE ###
+.vscode
+.idea
+
+### Environment ###
+venv
+.venv
+
+##
+files/*
+directory/*
+
+##
+firebase.json
+
+## System file
+.DS_Store
